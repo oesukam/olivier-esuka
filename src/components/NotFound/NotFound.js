@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./NotFound.css";
 
 const NotFound = () => (
@@ -13,6 +14,10 @@ const NotFound = () => (
           <h4 className="title is-4">
             The page you are looking for was not found
           </h4>
+
+          <Link to="/" className="button">
+            To Home
+          </Link>
         </div>
       </div>
     </div>
