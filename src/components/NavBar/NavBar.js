@@ -11,7 +11,7 @@ const Navbar = () => (
           <span className="title is-5 last-name">Esuka</span>
         </a>
 
-        <button className="navbar-buger burger">
+        <button className="navbar-burger burger">
           <span aria-hidden="true" />
           <span aria-hidden="true" />
           <span aria-hidden="true" />
