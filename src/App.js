@@ -5,6 +5,7 @@ import { HashRouter, Switch, Route } from "react-router-dom";
 import "./App.css";
 import NotFound from "./components/NotFound/NotFound";
 import Navbar from "./components/NavBar/NavBar";
+import Home from "./pages/Home/Home";
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <HashRouter basename="/">
         <Navbar />
         <Switch>
-          <Route path="/" component={NotFound} />
+          <Route path="/" component={Home} />
           <Route path="*" component={NotFound} />
         </Switch>
       </HashRouter>
