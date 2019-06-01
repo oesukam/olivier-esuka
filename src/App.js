@@ -6,6 +6,7 @@ import "./App.css";
 import NotFound from "./components/NotFound/NotFound";
 import Navbar from "./components/NavBar/NavBar";
 import Home from "./pages/Home/Home";
+import Resume from "./pages/Resume/Resume";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
       <HashRouter basename="/">
         <Navbar />
         <Switch>
-          <Route path="/" component={Home} />
+          <Route path="/" exact component={Home} />
+          <Route path="/resume" exact component={Resume} />
           <Route path="*" component={NotFound} />
         </Switch>
       </HashRouter>
