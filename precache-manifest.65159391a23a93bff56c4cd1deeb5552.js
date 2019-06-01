@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e446a574f1ed892d6ebb165b51ced0c",
+    "revision": "e7486fc6fa7140059c38afe961276cf1",
     "url": "/olivier-esuka/index.html"
   },
   {
-    "revision": "bbddb52b7e3caa72c95b",
+    "revision": "f97d0baf77c663ccbbe5",
     "url": "/olivier-esuka/static/css/2.f1857b3c.chunk.css"
   },
   {
-    "revision": "ce33a44c4cbf991fe63d",
-    "url": "/olivier-esuka/static/css/main.de0b7346.chunk.css"
+    "revision": "967095c018c4bde2878c",
+    "url": "/olivier-esuka/static/css/main.95bf24ce.chunk.css"
   },
   {
-    "revision": "bbddb52b7e3caa72c95b",
-    "url": "/olivier-esuka/static/js/2.5b212d2b.chunk.js"
+    "revision": "f97d0baf77c663ccbbe5",
+    "url": "/olivier-esuka/static/js/2.dfd84c22.chunk.js"
   },
   {
-    "revision": "ce33a44c4cbf991fe63d",
-    "url": "/olivier-esuka/static/js/main.98189a06.chunk.js"
+    "revision": "967095c018c4bde2878c",
+    "url": "/olivier-esuka/static/js/main.7be86d09.chunk.js"
   },
   {
     "revision": "0df1c9cb4126b1947aa5",
