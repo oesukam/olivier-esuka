@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7486fc6fa7140059c38afe961276cf1",
+    "revision": "baed85f484d5f0cb95c9f91207ef6830",
     "url": "/olivier-esuka/index.html"
   },
   {
-    "revision": "f97d0baf77c663ccbbe5",
+    "revision": "aeb53c4cd3d130010e68",
     "url": "/olivier-esuka/static/css/2.f1857b3c.chunk.css"
   },
   {
-    "revision": "967095c018c4bde2878c",
+    "revision": "42e0cf53c665483dbac5",
     "url": "/olivier-esuka/static/css/main.95bf24ce.chunk.css"
   },
   {
-    "revision": "f97d0baf77c663ccbbe5",
-    "url": "/olivier-esuka/static/js/2.dfd84c22.chunk.js"
+    "revision": "aeb53c4cd3d130010e68",
+    "url": "/olivier-esuka/static/js/2.adf154a1.chunk.js"
   },
   {
-    "revision": "967095c018c4bde2878c",
-    "url": "/olivier-esuka/static/js/main.7be86d09.chunk.js"
+    "revision": "42e0cf53c665483dbac5",
+    "url": "/olivier-esuka/static/js/main.68d4fdd6.chunk.js"
   },
   {
     "revision": "0df1c9cb4126b1947aa5",
