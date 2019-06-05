@@ -7,7 +7,7 @@ import NotFound from "./components/NotFound/NotFound";
 import Navbar from "./components/NavBar/NavBar";
 import Home from "./pages/Home/Home";
 import Resume from "./pages/Resume/Resume";
-import Contact from "./components/Contact/Contact";
+import Contact from "./pages/Contact/Contact";
 
 function App() {
   return (
