@@ -17,7 +17,7 @@ const Home = () => (
             <hr />
 
             <p className="about-me">
-              A Fullstack developer who enjoys solvings problems anbd building
+              A Fullstack developer who enjoys solving problems and building
               products.
             </p>
             <div className="columns">
