@@ -1,3 +1,5 @@
+## Project used for a react training workshop
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
